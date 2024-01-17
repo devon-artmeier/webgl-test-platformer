@@ -89,7 +89,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist/shader-art.js
+dist/test-platformer.js
 
 # Gatsby files
 .cache/
